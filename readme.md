@@ -1,6 +1,6 @@
 # Hi, how are you?
 
-<br><br>✨ I'm Juli, a Frontend Developer with a passion for Design
+<br>❤️‍🔥 I'm Juli, a Frontend Developer with a passion for Design
 <br>🔭 I'm currently learning Typescript
 <br>✉️ Shoot me an [Email](https://github.com/user/repo/blob/branch/other_file.md), add me on [LinkedIn](https://www.linkedin.com/in/juliane-schawert-22a6ba214/) or visit my [Behance](https://behance.net/julischa)
 
