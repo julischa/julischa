@@ -2,7 +2,7 @@
 
 <br>✨ I'm Juli, a Frontend Developer with a passion for Design
 <br>🔭 I'm currently learning Typescript
-<br>✉️ Shoot me an [Email](mailto:julianeschawert@gmail.com?subject=[GitHub]%20Source%20Han%20Sans), add me on [LinkedIn](https://www.linkedin.com/in/juliane-schawert-22a6ba214/) or visit my [Behance](https://behance.net/julischa)
+<br>✉️ Shoot me an [Email](mailto:julianeschawert@gmail.com?subject=[GitHub]%20Hello%20Juli%20🌹), add me on [LinkedIn](https://www.linkedin.com/in/juliane-schawert-22a6ba214/) or visit my [Behance](https://behance.net/julischa)
 
 # 💻 Tech Stack:
 
