@@ -8,7 +8,7 @@
   <tbody>
     <tr>
       <td align="center" width="50%">
-        <h2>20Design MERN</h2>
+        <h3>20Design MERN</h3>
         <img src="https://i.imgur.com/JnHacPR.jpg" width="100%" alt="20Design MERN" />
         <a href="https://github.com/julischa/20Design-MERN" target="_blank">
           <img src="https://i.imgur.com/lATIpBL.jpg" style="width: 120px;" alt="GitHub Repo" />
@@ -18,7 +18,7 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <h2>Squisito Fakeshop</h2>
+        <h3>Squisito</h3>
         <img src="https://i.imgur.com/43qHFEk.jpg" width="100%" alt="Squisito Fakeshop" />
         <a href="https://squisito-one.vercel.app/" target="_blank">
           <img src="https://i.imgur.com/lATIpBL.jpg" style="width: 120px;" alt="GitHub Repo" />
