@@ -25,7 +25,7 @@
           <img src="https://imgur.com/lATIpBL" style="max-width: 100%;" alt="GitHub Repo" />
         </a>
         <a href="https://github.com/julischa/fake-shop" rel="nofollow" target="_blank">
-          <img src="https://i.imgur.com/wQDK9IY" style="max-width: 100%;" alt="Live Site" />
+          <img src="https://i.imgur.com/wQDK9IY" style="border-radius: 20px;" alt="Live Site" />
         </a>
       </td>
     </tr>
