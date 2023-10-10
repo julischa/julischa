@@ -13,7 +13,7 @@
         <a href="https://github.com/julischa/20Design-MERN" target="_blank">
           <img src="https://i.imgur.com/lATIpBL.jpg" style="width: 110px;" alt="GitHub Repo" />
         </a>
-        <a href="https://20-design.vercel.app/" rel="nofollow" target="_blank">
+        <a href="https://20-design.vercel.app" target="_blank">
           <img src="https://i.imgur.com/wQDK9IY.jpg" style="width: 110px;" alt="Live Site" />
         </a>
       </td>
@@ -23,7 +23,7 @@
         <a href="https://github.com/julischa/fake-shop" target="_blank">
           <img src="https://i.imgur.com/lATIpBL.jpg" style="width: 110px;" alt="GitHub Repo" />
         </a>
-        <a href="https://squisito-one.vercel.app/" rel="nofollow" target="_blank">
+        <a href="https://squisito-one.vercel.app" target="_blank">
           <img src="https://i.imgur.com/wQDK9IY.jpg" style="width: 110px;" alt="Live Site" />
         </a>
       </td>
