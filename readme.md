@@ -20,7 +20,7 @@
       <td align="center" width="50%">
         <h3>Squisito</h3>
         <img src="https://i.imgur.com/43qHFEk.jpg" width="100%" alt="Squisito Fakeshop" />
-        <a href="https://github.com/julischa/fake-shop" target="_blank">
+        <a href="https://github.com/JacoLombardo/squisito" target="_blank">
           <img src="https://i.imgur.com/lATIpBL.jpg" style="width: 110px;" alt="GitHub Repo" />
         </a>
         <a href="https://squisito-one.vercel.app" target="_blank">
