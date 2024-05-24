@@ -2,7 +2,7 @@
 
 <br>→ I'm Juli, a Designer with coding skills in HTML, CSS, JavaScript
 <br>→ I'm currently working on a Memory Game in Next.js & Blender
-<br>→ Check out my [Behance](https://www.behance.com/julischa), add me on [LinkedIn](https://www.linkedin.com/in/julischa/) or take a look at [my Website](https://www.julischa.com)
+<br>→ Check out my <a href="https://www.behance.com/julischa" target="_blank">Behance</a>, add me on <a href="https://www.linkedin.com/in/julischa/" target="_blank">LinkedIn</a> or take a look at <a href="https://www.julischa.com" target="_blank">my Website</a>
 
 <table style="width:100%">
   <tbody>
