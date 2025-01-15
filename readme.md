@@ -1,7 +1,6 @@
 # Hi, how are you?
 
 <br>→ I'm Juli, a Designer with coding skills in HTML, CSS, JavaScript
-<br>→ I'm currently working on a Memory Game in Next.js & Blender
 <br>→ Check out my <a href="https://www.behance.com/julischa" target="_blank">Behance</a> or add me on <a href="https://www.linkedin.com/in/julischa/" target="_blank">LinkedIn</a> 
 
 <table style="width:100%">
