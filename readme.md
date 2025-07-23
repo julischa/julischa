@@ -2,7 +2,7 @@
 
 <br>→ I'm Juli, a Designer with coding skills in HTML, CSS, JavaScript
 <br>→ Check out my <a href="https://www.behance.com/julischa" target="_blank">Behance</a> (you can find more designs there) or add me on <a href="https://www.linkedin.com/in/julischa/" target="_blank">LinkedIn</a> 
-<br>→ I also share old & new 3D renders on <a href="https://www.instagram.com/julischa___" target="_blank">Instagram</a> from time to time (along with some 3D printed creations 🪑)
+<br>→ I also share old & new 3D renders on <a href="https://www.instagram.com/julischa___" target="_blank">Instagram</a> from time to time + some 3D printed creations 🪑
 
 <table style="width:100%">
   <tbody>
